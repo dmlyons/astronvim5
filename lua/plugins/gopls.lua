@@ -11,6 +11,12 @@ return {
             analyses = {
               shadow = false,
               -- fieldalignment = true,
+              ST1000 = false,
+              ST1001 = false,
+              ST1003 = false,
+              ST1005 = false,
+              ST1021 = false,
+              ST1022 = false,
             },
             buildFlags = { "-tags=!integration !build" },
             gofumpt = false,
