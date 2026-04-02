@@ -10,7 +10,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
   { import = "astrocommunity.completion.copilot-lua-cmp" },
-  { import = "astrocommunity.editing-support.copilotchat-nvim" },
+  -- { import = "astrocommunity.editing-support.copilotchat-nvim" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.go" },
